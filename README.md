@@ -32,4 +32,5 @@ Print paycheck (For example):
 
 
 ``git clone git@github.com:petsan/generation-paycheck.git``
+
 ``git checkout -b your-name``
