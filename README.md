@@ -4,8 +4,8 @@ Requirements for the Generation Paycheck Calculator
 
 Gather information
 1. Ask the user for the name of the person who will receive the paycheck: "First Lastname"
-2. Ask the user for the hourly rate in the format: (25.75) 
-3. Ask the user for hours: (40.4) hours.fraction_of_hour
+2. Ask the user for the hourly rate
+3. Ask the user for hours
 4. handle wrong input: if a user types in a string that is not a number should tell the user to try again
 
 Calculate Regular and O/T pay
