@@ -46,7 +46,11 @@ Example Output:
 9. FICA: $22.57
 10. Net Pay: $823.83
 
-BONUS 1:
+Hints: 
+1. Use functions for calculations and printing
+2. Make your code clear and easy to read
+ 
+ BONUS 1:
 Ask how many hours occured during holiday hours and calulate as regular rate times two and over-time as times three
 
 BONUS 2:
@@ -61,8 +65,5 @@ Create a JSON file with the entire payroll for the week
 OVERACHIEVER:
 Make web application that does all of the above ($25 Gift Card, courtesy of ME)
 
-Hints: 
-1. use functions for calculations and printing
-2. make your code clear and easy to read
- 
+
 HAVE FUN and REACH OUT if you get stuck for more than 20 MINUTES
