@@ -54,3 +54,4 @@ Hints:
 1. use functions for calculations and printing
 2. make your code clear and easy to read
  
+HAVE FUN and REACH OUT if you get stuck for more than 20 MINUTES
