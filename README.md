@@ -63,7 +63,7 @@ BRAGGING RIGHTS:
 Create a JSON file with the entire payroll for the week
 
 OVERACHIEVER:
-Make web application that does ALL of the above ($25 Gift Card, courtesy of ME)
+Make a WEB application that does ALL of the above ($25 Gift Card, courtesy of ME)
 
 
 HAVE FUN and REACH OUT if you get stuck for more than 20 MINUTES
