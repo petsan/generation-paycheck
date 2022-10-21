@@ -63,9 +63,7 @@ BRAGGING RIGHTS:
 Create a JSON file with the entire payroll for the week
 
 OVERACHIEVER:
-Make a WEB application that does ALL of the above ($25 Gift Card to the first successful learner, $10 to subsequent learners, courtesy of me).
-
-  No code sharing, I will be able to tell. :)
+Make a WEB application that does ALL of the above ($25 Gift Card to the first successful learner, $10 to the next thre subsequent learners, courtesy of me). NO code sharing, I WILL be able to tell. :)
 
 
 HAVE FUN and REACH OUT if you get stuck for more than 20 MINUTES
