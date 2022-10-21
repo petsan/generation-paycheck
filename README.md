@@ -29,3 +29,7 @@ Print paycheck (For example):
 8. State Tax: $100
 9. FICA: $50
 10. Net Pay: $700
+
+
+``git clone git@github.com:petsan/generation-paycheck.git``
+``git checkout -b your-name``
