@@ -27,7 +27,7 @@ Gather information
 
 Calculate Regular and O/T pay
 1. 0-40 hours is calculated as regular pay
-2. >40 hours is calulated as regular pay times one and a half
+2. over 40 hours is calulated as regular pay times one and a half
 
 Calculate Taxes:
 1. Federal Income tax rate: 15%
@@ -35,29 +35,22 @@ Calculate Taxes:
 3. FICA: 2%
 
 Print paycheck (For example):
-
-
-Employee: John Doe
-
-Hourly rate: $20.27
-
-Hours worked: 50.45
-
-Regular Pay: $810.80
-
-Overtime Pay: $317.73
-
-Gross Pay: $1128.53
-
-Federal tax: $169.28
-
-State Tax: $112.85
-
-FICA: $22.57
-
-Net Pay: $823.83
+1. Employee: John Doe
+2. Hourly rate: $20.27
+3. Hours worked: 50.45
+4. Regular Pay: $810.80
+5. Overtime Pay: $317.73
+6. Gross Pay: $1128.53
+7. Federal tax: $169.28
+8. State Tax: $112.85
+9. FICA: $22.57
+10. Net Pay: $823.83
 
 
 BONUS:
+Ask how many hours occured during holiday hours and calulate as regular rate times two and over-time as times three
 
-Ask about holiday hours and calulate as regular rate times two and over-time as times three
+Hints: 
+1. use functions for calculations and printing
+2. make your code clear and easy to read
+ 
