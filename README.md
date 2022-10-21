@@ -59,7 +59,7 @@ BRAGGING RIGHTS:
 Create a JSON file with the entire payroll for the week
 
 OVERACHIEVER:
-Make web application that doea all of the above
+Make web application that does all of the above ($25 Gift Card, courtesy of ME)
 
 Hints: 
 1. use functions for calculations and printing
