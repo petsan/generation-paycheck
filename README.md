@@ -36,13 +36,13 @@ Calculate Taxes:
 
 Print paycheck (For example):
 1. Employee: John Doe
-2. Hourly rate: $20
-3. Hours worked: 50
-4. Regular Pay: $800
-5. Overtime Pay: $300
-6. Gross: $1100
-7. Federal tax: $165
-8. State Tax: $110
-9. FICA: $22
-10. Net Pay: $803
+2. Hourly rate: $20.27
+3. Hours worked: 50.45
+4. Regular Pay: $810.80
+5. Overtime Pay: $317.73
+6. Gross: $1128.53
+7. Federal tax: $169.28
+8. State Tax: $112.85
+9. FICA: $22.57
+10. Net Pay: $823.83
 
