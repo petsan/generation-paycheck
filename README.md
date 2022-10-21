@@ -58,8 +58,8 @@ Read all data from a JSON file
 BRAGGING RIGHTS:
 Create a JSON file with the entire payroll for the week
 
-UBER DEV:
-Make flask application that doea all of the above
+OVERACHIEVER:
+Make web application that doea all of the above
 
 Hints: 
 1. use functions for calculations and printing
