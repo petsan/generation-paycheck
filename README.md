@@ -26,8 +26,8 @@ Gather information
 5. Handle tricky input, i.e.: <0 -1 >168 should provide error message and not crash. 0's should be calculated to 0.
 
 Calculate Regular and O/T pay
-1. 40 hours at regular pay
-2. Anything over 40 hours is calulated as time and a half
+1. 0-40 hours is calculated as regular pay
+2. >40 hours is calulated as regular pay times one and a half
 
 Calculate Taxes:
 1. Federal Income tax rate: 15%
@@ -56,3 +56,8 @@ State Tax: $112.85
 FICA: $22.57
 
 Net Pay: $823.83
+
+
+BONUS:
+
+Ask about holidays and calulate separetly as regular rate times two
