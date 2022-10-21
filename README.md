@@ -34,7 +34,7 @@ Calculate Taxes:
 2. State Income tax rate: 10%
 3. FICA: 2%
 
-Print paycheck (For example):
+Example Output:
 1. Employee: John Doe
 2. Hourly rate: $20.27
 3. Hours worked: 50.45
