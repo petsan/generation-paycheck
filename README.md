@@ -40,7 +40,7 @@ Print paycheck (For example):
 3. Hours worked: 50.45
 4. Regular Pay: $810.80
 5. Overtime Pay: $317.73
-6. Gross: $1128.53
+6. Gross Pay: $1128.53
 7. Federal tax: $169.28
 8. State Tax: $112.85
 9. FICA: $22.57
