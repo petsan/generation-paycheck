@@ -1,6 +1,6 @@
 # generation-paycheck
 
-Cloning instructions:
+Some useful git instructions:
 
 ``git clone git@github.com:petsan/generation-paycheck.git``
 
