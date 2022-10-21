@@ -19,7 +19,7 @@ Some useful git instructions:
 Requirements for the Generation Paycheck Calculator
 
 Gather information
-1. Ask the user for the name of the person who will receive the paycheck: "First Lastname"
+1. Ask the user for the name of the person who will receive the paycheck
 2. Ask the user for the hourly rate
 3. Ask the user for hours
 4. handle wrong input: if a user types in a string that is not a number should tell the user to try again
