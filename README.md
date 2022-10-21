@@ -23,7 +23,7 @@ Gather information
 2. Ask the user for the hourly rate
 3. Ask the user for hours
 4. Handle invalid input: if a user types in a string that is not a number should tell the user to try again
-5. Handle tricky input, i.e.: <0 -1 >168 should provide error message and not crash. 0's should be calculated to 0.
+5. Handle tricky input, i.e.: <0 -1 >168 should provide error message and not crash. 0's should be calculated to 0
 
 Calculate Regular and O/T pay
 1. 0-40 hours is calculated as regular pay
@@ -55,8 +55,11 @@ Ask for how many amployees to run through the payroll (hint: loop)
 EXTRA CREDIT:
 Read all data from a JSON file
 
-BRAGGIMG RIGHTS:
-Create a JSON file with the entire payroll for the week.
+BRAGGING RIGHTS:
+Create a JSON file with the entire payroll for the week
+
+UBER DEV:
+Make flask application that doea all of the above
 
 Hints: 
 1. use functions for calculations and printing
