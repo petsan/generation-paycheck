@@ -60,4 +60,4 @@ Net Pay: $823.83
 
 BONUS:
 
-Ask about holidays and calulate separetly as regular rate times two
+Ask about holiday hours and calulate as regular rate times two and over-time as times three
