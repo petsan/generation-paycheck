@@ -32,17 +32,17 @@ Calculate Regular and O/T pay
 Calculate Taxes:
 1. Federal Income tax rate: 15%
 2. State Income tax rate: 10%
-3. FICA: 5%
+3. FICA: 2%
 
 Print paycheck (For example):
 1. Employee: John Doe
 2. Hourly rate: $20
 3. Hours worked: 50
 4. Regular Pay: $800
-5. Overtime Pay: $200
-6. Gross: $1000
-7. Federal tax: $150
-8. State Tax: $100
-9. FICA: $50
-10. Net Pay: $700
+5. Overtime Pay: $300
+6. Gross: $1100
+7. Federal tax: $165
+8. State Tax: $110
+9. FICA: $22
+10. Net Pay: $803
 
