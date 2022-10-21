@@ -12,7 +12,7 @@ Cloning instructions:
 
 ``git add .``
 
-``git commit -m "message text"
+``git commit -m "message text"``
 
 ``git push``
 
