@@ -1,5 +1,21 @@
 # generation-paycheck
 
+Cloning instructions:
+
+``git clone git@github.com:petsan/generation-paycheck.git``
+
+``git checkout -b your-name``
+
+``git diff``
+
+``git status``
+
+``git add .``
+
+``git commit -m "message text"
+
+``git push``
+
 Requirements for the Generation Paycheck Calculator
 
 Gather information
@@ -30,7 +46,3 @@ Print paycheck (For example):
 9. FICA: $50
 10. Net Pay: $700
 
-
-``git clone git@github.com:petsan/generation-paycheck.git``
-
-``git checkout -b your-name``
